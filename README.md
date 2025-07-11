@@ -56,7 +56,7 @@ Telegram Bot Interface ← Hedge Execution & History Tracker
 1. Clone the repo or extract files:
 ```bash
 git clone <repo-url>
-cd hedging-bot
+cd <folder name>
 ```
 
 2. (Optional) Create virtual environment:
@@ -113,7 +113,7 @@ python main.py
 
 
 
-## 🎥 Video Demonstration
+## 🎥 Video Demonstration : https://drive.google.com/file/d/1Q-YVBNtCVNx8TdJvlIbhrz2mwbVDqtNz/view?usp=drivesdk
 
 Please refer to the attached video demonstrating:
 
